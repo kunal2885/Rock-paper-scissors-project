@@ -39,7 +39,7 @@ const showWinner = (userWin,userChoice,compChoice)=>{
     setTimeout(()=>{
         msgBox.innerText = "Pick Your Move"
         msgBox.style.backgroundColor = "rgb(43, 39, 39)"
-    },15000)
+    },8000)
     
 }
 
